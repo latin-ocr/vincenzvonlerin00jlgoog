@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vincenzvonlerin00jlgoog_0103.png"; bbox 0 0 3292 5109; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2286 195 2930 267">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2286 146 2930 267">
+     <span class='ocr_line' id='line_1_1' title="bbox 2286 195 2930 267; baseline -0.071 19"><span class='ocrx_word' id='word_1_1' title='bbox 2286 195 2930 267; x_wconf 57' lang='lat' dir='ltr'><strong>&amp;qnqvmqe3flq</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2070 138 3132 756">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2070 138 3132 756">
+     <span class='ocr_line' id='line_1_2' title="bbox 2070 138 3132 756; baseline 0 4353"><span class='ocrx_word' id='word_1_2' title='bbox 2070 138 3132 756; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2180 363 2614 607">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2074 363 2614 652">
+     <span class='ocr_line' id='line_1_3' title="bbox 2180 363 2614 607; baseline -0.019 8.037"><span class='ocrx_word' id='word_1_3' title='bbox 2180 363 2346 607; x_wconf 63' lang='lat' dir='ltr'><strong>{ww</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2366 363 2474 607; x_wconf 66' lang='lat'><strong>:1</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2510 363 2614 607; x_wconf 71' lang='grc' dir='ltr'><strong>ΗΙΙΜ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2302 627 2918 691">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2302 627 2918 691">
+     <span class='ocr_line' id='line_1_4' title="bbox 2302 627 2918 691; baseline -0.047 22"><span class='ocrx_word' id='word_1_6' title='bbox 2302 627 2918 691; x_wconf 68' lang='grc' dir='ltr'><strong>339097192339Α</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
